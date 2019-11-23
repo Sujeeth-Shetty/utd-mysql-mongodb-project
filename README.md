@@ -60,6 +60,7 @@ Country = Country in which the unit is located (e.g. US = United States).
 State = Two-letter code for the state in which the unit is located (or primarily affiliated).
 Code = Unit code (follows state code to create UnitId).
 Name = Unit name.
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 Please write queries using mySQL and Mongo for 6 out of the 8 questions provided to you. Complete the appropriate sections in the project report you had started for the project that contains the data model. Please ensure that all sections in your document are completed, including previously submitted details for phase 1. Please ensure that you submit your response here in elearning before Sunday, 11:59pm, Dec 8 2019.  No exceptions will be allowed to this submission deadline.
